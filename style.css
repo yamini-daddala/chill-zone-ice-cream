@@ -1,0 +1,22 @@
+body{
+font-family: Arial;
+text-align: center;
+background-color: #fff3f3;
+}
+
+h1{
+color: red;
+}
+
+.menu{
+display:flex;
+justify-content:center;
+gap:30px;
+}
+
+.item{
+background:white;
+padding:15px;
+border-radius:10px;
+box-shadow:0 0 10px gray;
+}
